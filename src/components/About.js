@@ -9,7 +9,7 @@ const About = () => {
       <h1>About iNotebook</h1>
   </header>
   <div class="container">
-      <p>Welcome to iNotebook, your digital companion for note-taking and organization!</p>
+      <p>Welcome to iNotebook Website, your digital companion for note-taking and organization!</p>
 
       <h2>Our Story</h2>
       <p>At iNotebook, we believe that notes are the building blocks of knowledge. Whether you're a student, professional, or just someone who loves jotting down ideas, we're here to make your note-taking experience smoother, smarter, and more enjoyable.</p>
